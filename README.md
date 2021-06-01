@@ -1,6 +1,6 @@
 # Zefyr [![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)](https://travis-ci.com/memspace/zefyr) [![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)](https://codecov.io/gh/memspace/zefyr)
 
-**Forked from memspace/zefyr**, to use in weta projects, such as [https://trainghiem.vn](trainghiem.vn) app, [https://freemar.vn](freemar.vn) app, ...
+**Forked from memspace/zefyr**, to use in weta projects, such as [trainghiem.vn](https://trainghiem.vn) app, [freemar.vn](https://freemar.vn) app, ...
 ***
 
 *Soft and gentle rich text editing for Flutter applications.*
